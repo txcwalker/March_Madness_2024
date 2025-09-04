@@ -11,7 +11,7 @@
 ---
 
 ## Abstract
-This project is a **March Madness Tournament Simulator** designed to predict NCAA basketball tournament outcomes using historical performance data and machine learning.  
+This is a **March Madness Tournament Simulator** designed to predict NCAA basketball tournament outcomes using historical performance data and machine learning.  
 
 The simulator is built to run annually, updating predictions, region strength tables, and visualizations each year. While the current version highlights the **2024 tournament**, the framework supports **any tournament year** by rerunning the data pipeline and prediction scripts.  
 
@@ -55,4 +55,5 @@ The primary objectives of the project are:
 
 ## Website
 This project is also featured on my personal website, with region strength tables and tournament visualizations:  
-👉 [Visit the Project Page](https://txcwalker.github.io/projects/marchmadness/)
+[Visit the Project Page](https://txcwalker.github.io/projects/marchmadness/)
+
