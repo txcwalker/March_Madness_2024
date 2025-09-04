@@ -49,11 +49,13 @@ The primary objectives of the project are:
 
 ## Acknowledgments
 - NCAA and sports reference datasets.  
-- Libraries: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`.  
+- Libraries: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`.
+- Some of the simulation framework was adapted from community notebooks on [Kaggle](https://www.kaggle.com/code/lennarthaupts/simulate-n-brackets).  
 
 ---
 
 ## Website
 This project is also featured on my personal website, with region strength tables and tournament visualizations:  
 [Visit the Project Page](https://txcwalker.github.io/projects/marchmadness/)
+
 
